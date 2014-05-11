@@ -1,7 +1,7 @@
-ASPcourse
+Adaptive Signal Processing
 =========
 
-Simulation codes for LMS and NLMS algorithm, that I had written for my coursework. 
+These are codes written for the assignments related to LMS and NLMS algorithms.
 
 License  
 =======
